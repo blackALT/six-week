@@ -1,62 +1,62 @@
 [
     {
-        "prato":"",
-        "regiao":"",
-        "ingredientesBase":["","",""]
+        "prato":"Feijoada",
+        "regiao":"Brasil",
+        "ingredientesBase":["Feijão","Carne de porco","Arroz","Farofa"]
 
     },
     {
-        "prato":"",
-        "regiao":"",
-        "ingredientesBase":["","",""]
+        "prato":"Pão de queijo",
+        "regiao":"Minas Gerais",
+        "ingredientesBase":["Polvilho","Queijo"]
 
     },
     {
-        "prato":"",
-        "regiao":"",
-        "ingredientesBase":["","",""]
+        "prato":"Moqueca Capixaba",
+        "regiao":"Espírito Santo",
+        "ingredientesBase":["Peixe","Arroz","Pirão"]
 
     },
     {
-        "prato":"",
-        "regiao":"",
-        "ingredientesBase":["","",""]
+        "prato":"Carne de Sol",
+        "regiao":"Nordeste",
+        "ingredientesBase":["Carne","Aipim frito","queijo coalho","feijão verde",""]
 
     },
     {
-        "prato":"",
-        "regiao":"",
-        "ingredientesBase":["","",""]
+        "prato":"Acarajé",
+        "regiao":"Bahia",
+        "ingredientesBase":["Feijão","Azeite de dende","camarão seco"]
 
     },
     {
-        "prato":"",
-        "regiao":"",
-        "ingredientesBase":["","",""]
+        "prato":"Tapioca",
+        "regiao":"Nordeste",
+        "ingredientesBase":["Mandioca"]
 
     },
     {
-        "prato":"",
-        "regiao":"",
-        "ingredientesBase":["","",""]
+        "prato":"Pato no Tucupi",
+        "regiao":"Paraná",
+        "ingredientesBase":["Pato","Molho do Tucupi"]
 
     },
     {
-        "prato":"",
-        "regiao":"",
-        "ingredientesBase":["","",""]
+        "prato":"Tacacá",
+        "regiao":"Norte",
+        "ingredientesBase":["tucupi ","goma de tapioca","camarão","jumbu"]
 
     },
     {
-        "prato":"",
-        "regiao":"",
-        "ingredientesBase":["","",""]
+        "prato":"Açaí",
+        "regiao":"Norte",
+        "ingredientesBase":["Açaí","Granola"]
 
     },
     {
-        "prato":"",
-        "regiao":"",
-        "ingredientesBase":["","",""]
+        "prato":"Cocada",
+        "regiao":"África",
+        "ingredientesBase":["Cana de acuçar","Coco"]
 
     }
 ]
