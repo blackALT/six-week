@@ -1,0 +1,54 @@
+[
+    {
+        "especie":"Gato" ,
+        "nome":"Félix",
+        "dono": "Anna",
+        "idade": 3
+    },{
+        "especie":"Gato" ,
+        "nome":"Roger",
+        "dono": "Pedro",
+        "idade": 2
+    },{
+        
+        "especie":"Cachorro" ,
+        "nome":"Bella",
+        "dono": "Amanda",
+        "idade": 6
+    },{
+        "especie":"Pássaro" ,
+        "nome":"Elder",
+        "dono": "Paulo",
+        "idade": 2
+    },{
+        "especie":"Coruja" ,
+        "nome":"Sophia",
+        "dono": "Sarah",
+        "idade": 1
+    },{ 
+        "especie":"Ramster" ,
+        "nome":"Roedor",
+        "dono": "Érico",
+        "idade": 3
+    },{ 
+        "especie":"Cavalo" ,
+        "nome":"Trovão",
+        "dono": "Camila",
+        "idade": 7
+    },{ 
+        "especie":"Coelho" ,
+        "nome":"Pascoal",
+        "dono": "Vicente",
+        "idade": 5
+    },{ 
+        "especie":"Cavalo" ,
+        "nome":"Pé de pano",
+        "dono": "Pica-Pau",
+        "idade": 5
+    },{ 
+        "especie":"Porco" ,
+        "nome":"Baby",
+        "dono": "Fazendeiro",
+        "idade": 2
+    }
+]

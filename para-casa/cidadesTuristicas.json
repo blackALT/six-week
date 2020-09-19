@@ -1,0 +1,53 @@
+[
+    {
+        "cidade":"Fernando de Noronha",
+        "estado":"Pernambuco",
+        "ponto turístico":["praias paradisíacas"]
+    },
+    {
+        "cidade":"Jericoacoara",
+        "estado":"Ceará",
+        "ponto turístico":["Praias","Dunas","Parque nacional"]
+    },   
+    {
+        "cidade":"Salvador ",
+        "estado":"Bahia",
+        "ponto turístico":["Pelourinho","Farol da Barra"]
+    },
+    {
+        "cidade":"Aracaju",
+        "estado":"Sergipe",
+        "ponto turístico":["Praia do Mosqueiro", "Praia do Atalaia","Museu da Gente Sergipana"]
+    },
+    {
+        "cidade":"Rio de Janeiro",
+        "estado":"Rio de Janeiro",
+        "ponto turístico":["Cristo Redentor","praias","Pão de açucar"]
+    },
+    {
+        "cidade":"Curitiba",
+        "estado":"Paraná",
+        "ponto turístico":["Museu Oscar Niemeyer","Jardim botânico","Ópera de Arame","Parque Tanguá"]
+    },
+    {
+        "cidade":"Ouro Preto",
+        "estado":"Minas Gerais",
+        "ponto turístico":["Igreja de São Francisco de Assis", "Matriz de Nossa Senhora do Pilar", "Museu da Inconfidência", "Casa do Contos"]
+    },
+    {
+        "cidade":"Cabo Frio",
+        "estado":"Rio de Janeiro",
+        "ponto turístico":["Praia das Conchas","Praia do Forte","Praia das Dunas"]
+    },
+    {
+        "cidade":"Urubici",
+        "estado":"Santa Catarina",
+        "ponto turístico":["cachoeiras", "rios", "cavernas", "montanhas", "grutas","mirantes"]
+    },
+    {
+        "cidade":"João Pessoa",
+        "estado":"Paraíba",
+        "ponto turístico":["Centro Cultural São Francisco","Farol do Cabo Branco","Casa do Artista Popular"]
+    }
+]
+    

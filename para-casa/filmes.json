@@ -1,0 +1,52 @@
+[
+	{
+		"titulo":"2001: Uma Odisseia no Espaço",
+		"diretor":["Stanley Kubrick"],
+		"anoLancamento":[1968]
+	},
+	{
+		"titulo":"O Poderoso Chefão",
+		"diretor":["Francis Ford Coppola"],
+		"anoLancamento":[1972]
+	},
+	{
+		"titulo":"Os Sete Samurais",
+		"diretor":["Akira Kurosawa"],
+		"anoLancamento":[1954]
+    },
+    {
+		"titulo":"Matrix",
+		"diretor":["Lana Wachowski","Andy Wachowski"],
+		"anoLancamento":[1999]
+    },
+    {
+		"titulo":"Pulp Fiction: Tempo de Violência",
+		"diretor":["Quentin Tarantino"],
+		"anoLancamento":[1994]
+    },
+    {
+		"titulo":"Cidade de Deus",
+		"diretor":["Fernando Meirelles", "Kátia Lund"],
+		"anoLancamento":[2002]
+    },
+    {
+		"titulo":"Tubarão",
+		"diretor":["Steven Spielberg"],
+		"anoLancamento":[1975]
+    },
+    {
+		"titulo":"Viagem de Chihiro",
+		"diretor":["Hayao Miyazaki"],
+		"anoLancamento":[2001]
+    },
+    {
+		"titulo":"O Senhor dos Anéis",
+		"diretor":["Peter Jackson"],
+		"anoLancamento":[2001,2002,2003]
+    },
+    {
+		"titulo":"O exterminador do Futuro",
+		"diretor":["James Cameron"],
+		"anoLancamento":[1984,1991]
+	}
+]
